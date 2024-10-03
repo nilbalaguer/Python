@@ -59,6 +59,8 @@ def pedrapapertisores():
             puntosb += 1
         elif (numero == 3 and select == 3):
             print("Ambdos Tisora")
+        else:
+            print("Opcio no valida :(")
 
     if (puntosplayer > 2):
         print("Has Guanyat!!!")
